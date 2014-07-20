@@ -1,0 +1,25 @@
+{
+  "name": "jquery-selection",
+  "version": "1.0.1",
+  "description": "jquery.fn.selection 输入框内选区操作",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "selection"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-selection"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-selection.js",
+    "dependencies": {}
+  }
+}
